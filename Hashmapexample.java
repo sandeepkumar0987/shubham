@@ -8,6 +8,7 @@ public class Hashmapexample {
         String at = mk.nextLine();
 
         //logic
+        //use another method also
 
         HashMap<Character,Integer> map = new HashMap<>();
         for(int i=0; i< at.length();i++){
